@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @harshit-8080
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in building scalable product
+- 🌱 I’m currently working as SDE-1 @GYTWorkz
+- 💞️ I’m looking to collaborate on backend frameworks
+- 📫 How to reach me - harshit.new71@gmail.com
 
-<!---
-harshit-8080/harshit-8080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
