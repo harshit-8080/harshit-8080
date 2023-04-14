@@ -33,13 +33,6 @@
 
 <!-- STATISTICS ABOUT PROFILE -->
 
- 📶 Stats:<br><br>
-
-
-
-<!--  TOP LANGUAGES STATISTICS -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-8080&theme=dark&layout=compact&align=right&width=40%)](https://github.com/harshit-8080/github-readme-stats)
-
  ---
 
 
