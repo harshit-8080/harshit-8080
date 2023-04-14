@@ -35,7 +35,7 @@
 
 
 <!-- GITHUB STATISTICS -->
- ![Github stats]()  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=harshit-8080)  
 
 
  <hr>
@@ -43,6 +43,6 @@
 
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak ]()   
+ [![GitHub Streak ](https://github-readme-streak-stats.herokuapp.com/?user=harshit-8080&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)   
 
 
