@@ -37,9 +37,6 @@
 
  ---
 
-<!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/harshit-8080/count.svg?align=center)
 
 
 <!-- GITHUB STATISTICS -->
@@ -55,6 +52,3 @@
 
 ---
 
-
-<!-- ACTIVITY GRAPH TRACKER -->
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshit-8080&theme=react-dark)](https://github.com/harshit-8080/github-readme-activity-graph)
