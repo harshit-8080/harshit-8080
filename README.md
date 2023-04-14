@@ -26,6 +26,7 @@
 <!-- SOCAIL MEDIA HANDLES -->
 [![Linkedin Badge](https://img.shields.io/badge/-HarshitRaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/riti2409/](https://www.linkedin.com/in/harshit71/))](https://www.linkedin.com/in/harshit71/)
 
+
 [![Gmail Badge](https://img.shields.io/badge/-harshit.new71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshit.new71@gmail.com)](mailto:harshit.new71@gmail.com)
 
 ---
@@ -34,7 +35,7 @@
 
 
 <!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=harshit-8080)  
+ ![Github stats]()  
 
 
  <hr>
@@ -42,8 +43,6 @@
 
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshit-8080&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)   
+ [![GitHub Streak ]()   
 
-
----
 
