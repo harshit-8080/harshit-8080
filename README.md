@@ -9,8 +9,13 @@
 <!--ABOUT ME CODE-->
 **About myself**<br>
 
-✔️ I am **Harshit Raj**, Currently Working as SDE - 1 at GYTWorkz. <br>
-@@ -12,37 +19,46 @@
+- 👋 Hi, I’m @harshit-8080
+
+- 👀 Interested in building scalable product
+- 
+- 🌱 I’m currently working as SDE @ GYTWorkz
+- 
+- 💞️ I’m looking to collaborate on backend frameworks
 
 <br>
 
