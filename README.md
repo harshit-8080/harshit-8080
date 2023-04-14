@@ -10,11 +10,9 @@
 **About myself**<br>
 
 - 👋 Hi, I’m @harshit-8080
-
+- ❤️ I'm a self-taught passionate full stack developer from India 🇮🇳
 - 👀 Interested in building scalable product
-- 
-- 🌱 I’m currently working as SDE @ GYTWorkz
-- 
+- 💼 I’m currently working as SDE @ GYTWorkz
 - 💞️ I’m looking to collaborate on backend frameworks
 
 <br>
