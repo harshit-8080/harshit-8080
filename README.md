@@ -19,3 +19,5 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harshit-8080&theme=dark)](https://git.io/streak-stats)
+
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshit-8080&hide=contribs,prs)
