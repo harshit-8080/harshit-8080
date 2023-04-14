@@ -36,10 +36,12 @@
  📶 Stats:<br><br>
 
 
+
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-8080&theme=dark&layout=compact&align=right&width=40%)](https://github.com/harshit-8080/github-readme-stats)
 
  ---
+
 
 
 
@@ -49,9 +51,10 @@
 
  <hr>
 
+
  
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshit-8080&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshit-8080&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)   
 
 
 ---
