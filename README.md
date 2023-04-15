@@ -18,10 +18,7 @@
 
 <br>
 
-
-<!--NOMINATION FOR STAR GIT LINK CODE-->
-<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
-
+---
 
 <!-- SOCAIL MEDIA HANDLES -->
 [![Linkedin Badge](https://img.shields.io/badge/-HarshitRaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/riti2409/](https://www.linkedin.com/in/harshit71/))](https://www.linkedin.com/in/harshit71/)
@@ -30,6 +27,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-harshit.new71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshit.new71@gmail.com)](mailto:harshit.new71@gmail.com)
 
 ---
+
 <!--  TOP LANGUAGES STATISTICS -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-8080&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
 
