@@ -30,9 +30,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-harshit.new71@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshit.new71@gmail.com)](mailto:harshit.new71@gmail.com)
 
 ---
+<!--  TOP LANGUAGES STATISTICS -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-8080&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+---
 
 <!-- GITHUB STATISTICS -->
  ![Github stats](https://github-readme-stats.vercel.app/api?username=harshit-8080)  
