@@ -3,8 +3,7 @@
 
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
-<h2 align=center>👋 Good to have you here!!</h2>
----
+<h2 align=center>👋 Good to have you here!!</h2><br>
 
 <br>
 
