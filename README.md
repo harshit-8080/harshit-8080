@@ -6,7 +6,7 @@
 <h2 align=center>👋 Good to have you here!!</h2>
 
 <p align = "center">
-  <img src = "https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47nj052d0cymz8hkha91gxyj6qux9dsh7jichhylbr&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="50%" width="50%" alt = "coding-GIF"/>
+  <img src = "https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" height="50%" width="50%" alt = "coding-GIF"/>
 </p>
 
 
