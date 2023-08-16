@@ -5,7 +5,9 @@
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
 <h2 align=center>👋 Good to have you here!!</h2>
 
-https://camo.githubusercontent.com/fcdc72c6a979bb12d97f7854e69019daa3141d545e0da9771bb1102cd1210221/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e6769663f6369643d65636630356534376e6a303532643063796d7a38686b686139316778796a3671757839647368376a69636868796c62722665703d76315f676966735f736561726368267269643d67697068792e6769662663743d67
+<p align = "center">
+  <img src = "https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47nj052d0cymz8hkha91gxyj6qux9dsh7jichhylbr&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="50%" width="50%" alt = "coding-GIF"/>
+</p>
 
 
 <!--ABOUT ME CODE-->
