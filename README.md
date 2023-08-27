@@ -34,7 +34,7 @@
 ---
 
 <!-- GITHUB STATISTICS -->
- ![Github stats](https://github-readme-stats.vercel.app/api?username=harshit-8080)  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=harshit-8080&show_icons=true&theme=radical)  
 
 
  <hr>
