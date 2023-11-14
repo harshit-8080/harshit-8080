@@ -3,7 +3,7 @@
 
 
 <!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
-<h2 align=center>👋 Good to have you here!</h2>
+<h2 align=center>👋  Good to have you here!</h2>
 
 <p align = "center">
   <img src = "https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" height="50%" width="50%" alt = "coding-GIF"/>
